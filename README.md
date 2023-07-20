@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🔆 Personal Projects:
 
-<!--
-**terry-chongkalok/terry-chongkalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤣 [**Anatomy of Jokes: Joke Detection + Detection Explainability**](https://github.com/terry-chongkalok/Anatomy_of_Jokes)
 
-Here are some ideas to get you started:
+  #NLP, #TextClassification, #ModelExplainability, #peft, #LoRA, #SHAP, #Transformer, #DataCentric, #PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔢 [**Digit Sequence Recognition Model**](https://github.com/terry-chongkalok/Digit_Seq_Recognition_POC)
+
+  #ComputerVision, #TextRecognition, #CRNN, #CTCLoss, #Underfitting, #CyclicLearningRate, #TransferLearning, #PyTorch
+
+📋 [**Complete Template/Guide on Modelling for Tabular Data**](https://github.com/terry-chongkalok/Template_for_Modelling_for_tabular_data)
+
+  #TabularData, #SklearnPipeline, #BayesSearch, #FeatureElimination, #DataLeakage, #LightGBM
+
